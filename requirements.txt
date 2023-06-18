@@ -1,3 +1,4 @@
+first install and setup the authentication for login regiter using breez bootstrape and vue
 composer require pusher/pusher-php-server
 npm install --save pusher.js
 npm add laravel-echo

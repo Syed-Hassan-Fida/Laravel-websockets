@@ -1,7 +1,9 @@
 require('./bootstrap');
 
-import Alpine from 'alpinejs';
+window.Vue = require('vue');
 
-window.Alpine = Alpine;
+// import Alpine from 'alpinejs';
 
-Alpine.start();
+// window.Alpine = Alpine;
+
+// Alpine.start();
